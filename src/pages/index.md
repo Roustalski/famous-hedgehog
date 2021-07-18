@@ -17,7 +17,7 @@ sections:
     image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: right
-    has_background: true
+    has_background: false
     background:
       background_color: blue
       background_image: images/Screen Shot 2021-03-16 at 8.36.20 PM.png
